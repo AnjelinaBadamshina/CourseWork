@@ -22,7 +22,6 @@ public class LevelController : MonoBehaviour
     private bool character1Finished = false;
     private bool character2Finished = false;
 
-    // Метод Unity, который вызывается при инициализации скрипта
     void Start()
     {
         // Если это первый созданный экземпляр, делаем его синглтоном
